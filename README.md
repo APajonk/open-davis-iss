@@ -5,6 +5,8 @@ Receives radio packets from Davis wireless ISS (EU version) with an Adafruit Fea
 
 # License
 
+# Hardware
+
 # Features
 
 # Notes
