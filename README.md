@@ -6,6 +6,7 @@ Receives radio packets from Davis wireless ISS (EU version) with an Adafruit Fea
 # License
 
 # Hardware
+* [Adafruit Feather M0 RFM69HCW](https://www.adafruit.com/product/3176)
 
 # Features
 
